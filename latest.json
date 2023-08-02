@@ -1,0 +1,19 @@
+{
+  "version": "0.1.1",
+  "notes": "See the assets to download this version and install.",
+  "pub_date": "2023-08-02T19:51:18.359Z",
+  "platforms": {
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZXNLUm1tNnpzMWxZcDRSVFFMdmYzS2VTMVJTbkUycFlTb0ZYSC9JOEN6UUZXaGR0YVJSK1hNUit3TnhuSzBXMzVqb2dOa0kvZG9NZnFMdW5MSkxaWSs4dTNaRU10SGdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjkxMDA1NjgzCWZpbGU6Y29uc3RydWN0X2NyYXdsZXIuYXBwLnRhci5negpVM0ZFRGo4UGVrTTBuRGdjai82V2JsNmszTkhvZVpIT0dkeHdBZ1RRdkRTdDFDU1ZaRHlkWmZDalVveFlyS3B3VkcrRmFIZWZUZzJtVDg4UnRWbHVEUT09Cg==",
+      "url": "https://github.com/skymen/construct-crawler/releases/download/construct-crawler-v0.1.1/construct_crawler_x64.app.tar.gz"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZXNLUm1tNnpzMWo4aVFvNDloUlltWDduMlpOcFlxcG43ZldJdWZPVnErRVZsUXovUXJPS3JRc2RmWEc3YnNKZ1V4NDczZzU3THRjejh1UVJuNlM2QUdpYnplbGs1ZlE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjkxMDA1NzEwCWZpbGU6Y29uc3RydWN0LWNyYXdsZXJfMC4xLjFfYW1kNjQuQXBwSW1hZ2UudGFyLmd6Cm9oNldnUVZ3UWJWNHBoLzQ4MHcvRlZuRlhzZlUxb3JkZ01sbFlHSzBxUWprTVJwSVNYY0txZ1gwSGhDSU8xc2hPVno0NjRzdHF3T1M2S3V1OFdkSER3PT0K",
+      "url": "https://github.com/skymen/construct-crawler/releases/download/construct-crawler-v0.1.1/construct-crawler_0.1.1_amd64.AppImage.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZXNLUm1tNnpzMW52cGRaU1RNNDRQWEgxbGtCbFlDV1FieUE4RzJIcnRGU1VQMkpycTJiK3Vzd3dpalRvbW1NdmM5bWQySHhaUytmOVcza2NWakE5elJjK2pJN0ZOTXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjkxMDA1ODc0CWZpbGU6Y29uc3RydWN0X2NyYXdsZXJfMC4xLjFfeDY0LXNldHVwLm5zaXMuemlwCmp4ejlZN2hiNERzOUdzMnhJOXlWaSt0dHdjQTBURDhlbTdVcFB3SmR1Rk10R3l0VVRGNnZxTjk1NzMram5scUxYOWNBM1ZSMm10dkxpYzZUTy9KUER3PT0K",
+      "url": "https://github.com/skymen/construct-crawler/releases/download/construct-crawler-v0.1.1/construct_crawler_0.1.1_x64-setup.nsis.zip"
+    }
+  }
+}
